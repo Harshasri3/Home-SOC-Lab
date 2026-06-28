@@ -1,0 +1,5 @@
+*.log
+*.evtx
+*.bak
+Thumbs.db
+.DS_Store
